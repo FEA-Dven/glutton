@@ -10,7 +10,7 @@
     </div>
     <div class="logform">
       <button class="logbtn" @click="register">注册</button>
-       <button class="regbtn" @click="loggin">登录1</button>
+       <button class="regbtn" @click="loggin">登录</button>
     </div>
   </div>
 </template>
